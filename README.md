@@ -1,2 +1,2 @@
 # PyICE
-Python ICE Encryption
+Stable ICE Encryption, encrypt your game data.
